@@ -16,13 +16,27 @@ This project is a simple React Authentication Application built using React, Rea
 * Protected Authentication Status
 * Responsive UI using MDB React UI Kit
 
-## Technologies Used
+## Development Approach
+
+This project was developed using modern web development practices with React, React Router, and MDB React UI Kit. During development, AI-assisted coding tools such as Cursor AI were used to improve productivity, understand concepts, debug issues, and accelerate the development workflow.
+
+### Tools Used
 
 * React
 * React Router
 * MDB React UI Kit
 * JavaScript (ES6+)
 * Local Storage
+* Cursor AI
+* Git & GitHub
+
+### Benefits of AI-Assisted Development
+
+* Faster development process
+* Improved code quality
+* Quick debugging and error resolution
+* Better understanding of React concepts
+* Enhanced developer productivity
 
 ## Project Structure
 
@@ -110,7 +124,5 @@ npm run d
 
 Sir Ahmed 
 Abdullah Ansari
-SMIT Student
-Badge 18
 SMIT Student
 Badge 18
